@@ -3,6 +3,11 @@ import random
 import uuid
 import os
 
+
+##################################################
+# Script para combinações numeros Mega da Virada #
+##################################################
+
 arquivo = 'origem.xlsx'
 
 if not os.path.exists(arquivo):
